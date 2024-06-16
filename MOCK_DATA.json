@@ -1,0 +1,92 @@
+[
+  {
+    "id": 2,
+    "item_name": "Steampan - Lid For Half Size",
+    "quantity": 6,
+    "price": 320.03,
+    "category": "Household",
+    "weight": 8.7,
+    "description": null
+  },
+  {
+    "id": 3,
+    "item_name": "Flour - So Mix Cake White",
+    "quantity": 88,
+    "price": 270.28,
+    "category": "Grocery",
+    "weight": 5.4,
+    "description": null
+  },
+  {
+    "id": 4,
+    "item_name": "Beef - Flank Steak",
+    "quantity": 54,
+    "price": 950.33,
+    "category": "Grocery",
+    "weight": 9.1,
+    "description": null
+  },
+  {
+    "id": 5,
+    "item_name": "Carbonated Water - Raspberry",
+    "quantity": 32,
+    "price": 109.58,
+    "category": "Personal Care",
+    "weight": 4.5,
+    "description": null
+  },
+  {
+    "id": 6,
+    "item_name": "Huck Towels White",
+    "quantity": 40,
+    "price": 116.7,
+    "category": "Personal Care",
+    "weight": 6.6,
+    "description": null
+  },
+  {
+    "id": 7,
+    "item_name": "Ginger - Crystalized",
+    "quantity": 51,
+    "price": 434.21,
+    "category": "Personal Care",
+    "weight": 8,
+    "description": null
+  },
+  {
+    "id": 8,
+    "item_name": "Bread - Kimel Stick Poly",
+    "quantity": 49,
+    "price": 138.34,
+    "category": "Grocery",
+    "weight": 8.4,
+    "description": null
+  },
+  {
+    "id": 9,
+    "item_name": "Lamb Rack - Ontario",
+    "quantity": 51,
+    "price": 864.06,
+    "category": "Personal Care",
+    "weight": 3.8,
+    "description": null
+  },
+  {
+    "id": 10,
+    "item_name": "Bread - Italian Corn Meal Poly",
+    "quantity": 43,
+    "price": 254.84,
+    "category": "Grocery",
+    "weight": 9.7,
+    "description": null
+  },
+  {
+    "item_name": "santor_soap",
+    "quantity": "10",
+    "price": "2500",
+    "category": "bathing",
+    "weight": "0.10",
+    "description": "body care",
+    "id": 11
+  }
+]
